@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sqlite com Room</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Idade">Idade</string>
+    <string name="Nome">Nome</string>
+    <string name="Sobrenome">Sobrenome</string>
+    <string name="Add">Adicionar</string>
+</resources>
